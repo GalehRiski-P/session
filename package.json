@@ -1,0 +1,14 @@
+{
+  "name": "wa-baileys-mongo",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "mongoose": "^8.9.0",
+    "pino": "^9.5.0"
+  }
+}
